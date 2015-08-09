@@ -1,0 +1,73 @@
+#bg {
+	position: fixed;
+	top: 0;
+	left: 0;
+
+	min-width: 100%;
+	min-height: 100%;
+}
+
+body {
+	backround-size: cover;
+	font-size: 24px;
+}
+
+#time {
+	position: top;
+	text-align: center;
+	font-family: Lime;
+	color: #666666;
+	font-size: 1em;
+	padding-top: 1em;
+}
+
+img.line {
+	left: 50%;
+	position: fixed;
+	top: 5em;
+}
+
+div.books {
+	margin-left: 50%;
+	text-align: left;
+	padding-left: 10px;
+
+	font-family: Bitstream Charter; 
+	/* Helvetica Neue;*/
+	font-weight: 300;
+	font-size: 0.75em;
+
+	position: fixed;
+	left: 0px;
+	top: 120px;
+}
+
+div.books2 {
+	margin-right: 50%;
+	text-align: right;
+	padding-right: 10px;
+
+	font-family: Helvetica Neue;
+	font-weight: 300;
+	font-size: 0.75em;
+
+	position: fixed;
+	right: 0px;
+	top: 120px;
+}
+
+a:link {
+	text-decoration: none;
+	color: #0b0d14;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #008241;
+}
+
+a:visited {
+	color: #0d0b14;
+}
+
+
