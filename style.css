@@ -11,27 +11,13 @@ body {
 	font-size: 24px;
 }
 
-#time {
-	position: top;
-	text-align: center;
-	font-family: Lime;
-	color: #666666;
-	font-size: 1em;
-	padding-top: 1em;
-}
-
-img.line {
-	left: 50%;
-	position: fixed;
-	top: 5em;
-}
 
 div.books {
 	margin-left: 50%;
 	text-align: left;
 	padding-left: 60px;
 
-	font-family: Tamsyn, Helvetica Neue;
+	font-family: Tamsyn, Monospace, Helvetica Neue;
 	font-weight: 300;
 	font-size: 0.75em;
 
@@ -45,7 +31,7 @@ div.books2 {
 	text-align: right;
 	padding-right: 60px;
 
-	font-family: Tamsyn, Helvetica Neue;
+	font-family: Tamsyn, Monospace, Helvetica Neue;
 	font-weight: 300;
 	font-size: 0.75em;
 
