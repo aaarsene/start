@@ -17,3 +17,9 @@ The basic steps are as follows:
 7. change the value to be the path to the index.html
 8. disable any addons that my interfere with newtabs.
 
+To change the picture used as a bg in index.pixel.html:
+
+1. save whatever picture you want to use to the same directory as index.pixel.html
+2. edit index.pixel.html and change the line <img src="2.png" id="bg" alt="">
+3. edit 2.png to be the name of the picture you want to use.
+4. 
