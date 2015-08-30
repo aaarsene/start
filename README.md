@@ -1,6 +1,8 @@
-"Start"
+"start"
 
-Your new simple startpage.
+A startpage in two forms.
 
-just edit the picture to whatever you want, edit the index to have your links and do whatever else you want to make this yours.
+Do whatever you want with this.
 
+The basic steps are as follows:
+WIP
