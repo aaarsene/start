@@ -1,6 +1,6 @@
 #bg {
 	position: fixed;
-	top: -100;
+	top: -100px;
 	left: 0;
 
 	width: 100%;
@@ -53,4 +53,3 @@ a:hover {
 	text-decoration: none;
 	color: #3c6eb4;
 }
-
